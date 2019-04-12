@@ -16,7 +16,7 @@ git clone https://github.com/arunes/react-web-boilerplate-webpack.git
 cd react-web-boilerplate-webpack
 
 # install node dependencies
-npm install -d
+npm install
 
 # start the development server
 npm start
@@ -32,4 +32,4 @@ And that's it, [Webpack.js][webpack] will take care of the rest.
 
 [react]: <https://reactjs.org/>
 [webpack]: <https://parceljs.org>
-[node]: <https://nodejs.org/>
+[node]: <https://nodejs.org/>git
