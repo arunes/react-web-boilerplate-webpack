@@ -25,7 +25,7 @@ npm start
 For production environments...
 
 ```sh
-npm build
+npm run build
 ```
 
 And that's it, [Webpack.js][webpack] will take care of the rest.
