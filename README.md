@@ -31,5 +31,5 @@ npm build
 And that's it, [Webpack.js][webpack] will take care of the rest.
 
 [react]: <https://reactjs.org/>
-[parcel]: <https://parceljs.org>
+[webpack]: <https://parceljs.org>
 [node]: <https://nodejs.org/>
