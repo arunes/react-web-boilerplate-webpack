@@ -1,0 +1,30 @@
+{
+  "name": "react-web-boilerplate-webpack",
+  "version": "1.0.0",
+  "description": "React Web App Boilerplate with Webpack.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack-dev-server --mode development --open --hot",
+    "build": "webpack --mode production"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arunes/dropf.git"
+  },
+  "author": "Ali R Unes <ali@arunes.com>",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^16.8.1",
+    "react-dom": "^16.8.1"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-loader": "^7.1.5",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-react": "^6.24.1",
+    "html-webpack-plugin": "^3.2.0",
+    "webpack": "^4.29.3",
+    "webpack-cli": "^3.2.3",
+    "webpack-dev-server": "^3.1.14"
+  }
+}
